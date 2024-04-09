@@ -1,3 +1,7 @@
 .image{
-    size: 2
+    width: 2px;
+}
+
+a{
+    font-size: 2px;
 }
